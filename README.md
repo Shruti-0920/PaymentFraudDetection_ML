@@ -26,7 +26,9 @@ Step 6)Compare pipelines based on accuracy and other metrics.
 ## **Dataset Attribution**
 
 Dataset used: *Payment Fraud - Empowering Financial Security* from Kaggle
+
 Source: https://www.kaggle.com/datasets
+
 All rights and credits belong to the original dataset creators.
 
 ## **License**
@@ -36,6 +38,8 @@ This project is shared without a license. All rights reserved.
 ## **Author**
 
 **Shruti Muley**
+
 Computer Science and Engineering
+
 Shri Ramdeobaba College of Engineering and Management
 
